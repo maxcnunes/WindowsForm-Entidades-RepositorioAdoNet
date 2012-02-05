@@ -1,0 +1,3 @@
+<add name="MDI_Escola" 
+         connectionString="Data Source=NT-001;Initial Catalog=MDI_Escola;User ID=sa;Password=123" 
+         providerName="System.Data.SqlClient"/>

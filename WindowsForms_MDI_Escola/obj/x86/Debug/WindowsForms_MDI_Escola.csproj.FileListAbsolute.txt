@@ -1,0 +1,24 @@
+D:\MyDocuments\Visual Studio 2010\Projects\WindowsForms_MDI_Escola\WindowsForms_MDI_Escola\bin\Debug\WindowsForms_MDI_Escola.exe
+D:\MyDocuments\Visual Studio 2010\Projects\WindowsForms_MDI_Escola\WindowsForms_MDI_Escola\bin\Debug\WindowsForms_MDI_Escola.pdb
+D:\MyDocuments\Visual Studio 2010\Projects\WindowsForms_MDI_Escola\WindowsForms_MDI_Escola\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\MyDocuments\Visual Studio 2010\Projects\WindowsForms_MDI_Escola\WindowsForms_MDI_Escola\obj\x86\Debug\WindowsForms_MDI_Escola.CadAluno.resources
+D:\MyDocuments\Visual Studio 2010\Projects\WindowsForms_MDI_Escola\WindowsForms_MDI_Escola\obj\x86\Debug\WindowsForms_MDI_Escola.CadTurmas.resources
+D:\MyDocuments\Visual Studio 2010\Projects\WindowsForms_MDI_Escola\WindowsForms_MDI_Escola\obj\x86\Debug\WindowsForms_MDI_Escola.Form1.resources
+D:\MyDocuments\Visual Studio 2010\Projects\WindowsForms_MDI_Escola\WindowsForms_MDI_Escola\obj\x86\Debug\WindowsForms_MDI_Escola.Properties.Resources.resources
+D:\MyDocuments\Visual Studio 2010\Projects\WindowsForms_MDI_Escola\WindowsForms_MDI_Escola\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\MyDocuments\Visual Studio 2010\Projects\WindowsForms_MDI_Escola\WindowsForms_MDI_Escola\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\MyDocuments\Visual Studio 2010\Projects\WindowsForms_MDI_Escola\WindowsForms_MDI_Escola\obj\x86\Debug\WindowsForms_MDI_Escola.exe
+D:\MyDocuments\Visual Studio 2010\Projects\WindowsForms_MDI_Escola\WindowsForms_MDI_Escola\obj\x86\Debug\WindowsForms_MDI_Escola.pdb
+D:\MyDocuments\Visual Studio 2010\Projects\WindowsForms_MDI_Escola\WindowsForms_MDI_Escola\obj\x86\Debug\WindowsForms_MDI_Escola.CadMatricula.resources
+C:\Users\max.nunes\Downloads\WindowsForms_MDI_Escola\WindowsForms_MDI_Escola\WindowsForms_MDI_Escola\obj\x86\Debug\WindowsForms_MDI_Escola.exe
+C:\Users\max.nunes\Downloads\WindowsForms_MDI_Escola\WindowsForms_MDI_Escola\WindowsForms_MDI_Escola\obj\x86\Debug\WindowsForms_MDI_Escola.pdb
+C:\Users\max.nunes\Downloads\WindowsForms_MDI_Escola\WindowsForms_MDI_Escola\WindowsForms_MDI_Escola\bin\Debug\WindowsForms_MDI_Escola.exe
+C:\Users\max.nunes\Downloads\WindowsForms_MDI_Escola\WindowsForms_MDI_Escola\WindowsForms_MDI_Escola\bin\Debug\WindowsForms_MDI_Escola.pdb
+C:\Users\max.nunes\Downloads\WindowsForms_MDI_Escola\WindowsForms_MDI_Escola\WindowsForms_MDI_Escola\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\max.nunes\Downloads\WindowsForms_MDI_Escola\WindowsForms_MDI_Escola\WindowsForms_MDI_Escola\obj\x86\Debug\WindowsForms_MDI_Escola.Properties.Resources.resources
+C:\Users\max.nunes\Downloads\WindowsForms_MDI_Escola\WindowsForms_MDI_Escola\WindowsForms_MDI_Escola\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\max.nunes\Downloads\WindowsForms_MDI_Escola\WindowsForms_MDI_Escola\WindowsForms_MDI_Escola\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\max.nunes\Downloads\WindowsForms_MDI_Escola\WindowsForms_MDI_Escola\WindowsForms_MDI_Escola\obj\x86\Debug\WindowsForms_MDI_Escola.FrmPrincipal.resources
+C:\Users\max.nunes\Downloads\WindowsForms_MDI_Escola\WindowsForms_MDI_Escola\WindowsForms_MDI_Escola\obj\x86\Debug\WindowsForms_MDI_Escola.FrmCadAluno.resources
+C:\Users\max.nunes\Downloads\WindowsForms_MDI_Escola\WindowsForms_MDI_Escola\WindowsForms_MDI_Escola\obj\x86\Debug\WindowsForms_MDI_Escola.FrmCadMatricula.resources
+C:\Users\max.nunes\Downloads\WindowsForms_MDI_Escola\WindowsForms_MDI_Escola\WindowsForms_MDI_Escola\obj\x86\Debug\WindowsForms_MDI_Escola.FrmCadTurmas.resources

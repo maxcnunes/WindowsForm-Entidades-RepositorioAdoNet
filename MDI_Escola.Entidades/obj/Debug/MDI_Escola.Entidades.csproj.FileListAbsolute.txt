@@ -1,0 +1,10 @@
+C:\Users\max.nunes\Desktop\WindowsForms_MDI_Escola\MDI_Escola.Entidades\bin\Debug\MDI_Escola.Entidades.dll
+C:\Users\max.nunes\Desktop\WindowsForms_MDI_Escola\MDI_Escola.Entidades\bin\Debug\MDI_Escola.Entidades.pdb
+C:\Users\max.nunes\Desktop\WindowsForms_MDI_Escola\MDI_Escola.Entidades\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\max.nunes\Desktop\WindowsForms_MDI_Escola\MDI_Escola.Entidades\obj\Debug\MDI_Escola.Entidades.dll
+C:\Users\max.nunes\Desktop\WindowsForms_MDI_Escola\MDI_Escola.Entidades\obj\Debug\MDI_Escola.Entidades.pdb
+C:\Users\max.nunes\Desktop\WindowsForms_MDI_Escola - FinalAula2\MDI_Escola.Entidades\bin\Debug\MDI_Escola.Entidades.dll
+C:\Users\max.nunes\Desktop\WindowsForms_MDI_Escola - FinalAula2\MDI_Escola.Entidades\bin\Debug\MDI_Escola.Entidades.pdb
+C:\Users\max.nunes\Desktop\WindowsForms_MDI_Escola - FinalAula2\MDI_Escola.Entidades\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\max.nunes\Desktop\WindowsForms_MDI_Escola - FinalAula2\MDI_Escola.Entidades\obj\Debug\MDI_Escola.Entidades.dll
+C:\Users\max.nunes\Desktop\WindowsForms_MDI_Escola - FinalAula2\MDI_Escola.Entidades\obj\Debug\MDI_Escola.Entidades.pdb
